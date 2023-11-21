@@ -1,5 +1,3 @@
-# gitLUD
-NewsData Project
 
 ## 프로젝트명:  (팀명:)
 팀명 :
